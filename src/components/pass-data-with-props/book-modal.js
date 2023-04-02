@@ -1,18 +1,31 @@
 // BookModal.js
-import { Card, Collapse, Modal } from "antd";
+import { Button, Card, Collapse, Modal } from "antd";
 import Meta from "antd/es/card/Meta";
 import React from "react";
 
 const { Panel } = Collapse;
 
-function BookModal({ book, onClose }) {
+function BookModal({ book, onClose, onDelete, loading }) {
   return (
     <Modal
       title={book.title}
       open={!!book}
-      onOk={onClose}
-      onCancel={onClose}
       centered
+      onCancel={onClose}
+      footer={[
+        <Button key="cancel" onClick={onClose}>
+          Close
+        </Button>,
+        <Button
+          key="ok"
+          type="primary"
+          loading={loading}
+          onClick={onDelete}
+          danger
+        >
+          Delete
+        </Button>,
+      ]}
     >
       <Card hoverable cover={<img alt="example" src={book.imageUrl} />}>
         <Meta

@@ -10,7 +10,7 @@ function BookListItem({ book, onBookClick }) {
       hoverable
       style={{ width: 240 }}
       cover={<img alt="example" src={book.imageUrl} />}
-      onClick={() => onBookClick(book)}
+      onClick={onBookClick}
     >
       <Meta title={book.title} description={book.author} />
     </Card>

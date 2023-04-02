@@ -1,0 +1,1 @@
+export const PUBLIC_API_URL = 'https://64297ee95a40b82da4d41c55.mockapi.io/api/books/books'

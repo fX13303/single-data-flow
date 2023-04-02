@@ -1,25 +1,19 @@
 [
   {
-    "id": "1",
     "title": "The Great Gatsby",
     "author": "F. Scott Fitzgerald",
-    "year": 1925,
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
     "description": "The story is set in the summer of 1922 in the fictional town of West Egg on Long Island, where the wealthy Jay Gatsby resides in a mansion, throwing lavish parties every weekend in the hopes of winning back his lost love, Daisy Buchanan. \n\nNarrated by Nick Carraway, a young man who has recently moved to West Egg, the novel explores themes of love, wealth, corruption, and the American Dream. As Nick becomes drawn into the lives of Gatsby and his friends, including the Buchanan family and the shady businessman Meyer Wolfsheim, he begins to uncover the darker truths behind their glamorous lifestyles. \n\n\nThrough vivid prose and complex characters, 'The Great Gatsby' paints a portrait of the Jazz Age in America and the pursuit of the elusive American Dream, ultimately asking the question of whether it is possible to truly achieve happiness and fulfillment through material wealth and social status. The novel has been widely regarded as a masterpiece of modernist literature and a defining work of the 20th century."
   },
   {
-    "id": 2,
     "title": "To Kill a Mockingbird",
     "author": "Harper Lee",
-    "year": 1960,
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvCC1ng4Ed5xDF7jBcI9Qin8FqXo4D-LPbtQ&usqp=CAU",
     "description": "Set in the 1930s in the fictional town of Maycomb, Alabama, the novel follows the story of Scout Finch, a young girl growing up with her brother Jem and their father Atticus, a lawyer who is appointed to defend a black man, Tom Robinson, falsely accused of raping a white woman. \n\nAs the trial unfolds, the children witness the racism and injustice that permeates their society, and they struggle to understand why people treat others differently based on their skin color. The novel explores themes of racial injustice, social inequality, gender roles, and the loss of innocence. \n\nNarrated by Scout, the novel is a coming-of-age story that examines the moral complexities of human behavior and the importance of empathy and compassion. Through vivid characters and masterful storytelling, Lee created a timeless classic that has become an enduring part of American literature.\n\n'To Kill a Mockingbird' has won numerous awards, including the Pulitzer Prize, and is widely regarded as one of the greatest American novels of the 20th century. It has been adapted into a successful film and a popular stage play, and its message of tolerance and understanding continues to resonate with readers of all ages and backgrounds."
   },
   {
-    "id": "3",
     "title": "1984",
     "author": "George Orwell",
-    "year": 1949,
     "imageUrl": "https://cdn-amz.woka.io/images/I/81StSOpmkjL.jpg",
     "description": "Set in a future totalitarian society, the novel follows the life of Winston Smith, a low-ranking member of the ruling Party in Oceania, a superstate that encompasses the Americas, the British Isles, and parts of Africa. \n\nWinston is disillusioned with the oppressive regime and secretly rebels against it, engaging in forbidden activities such as keeping a diary and falling in love with a fellow Party member, Julia. As he navigates his way through a world of constant surveillance and propaganda, Winston becomes increasingly aware of the Party's manipulation of truth and language. \n\nThe novel explores themes of totalitarianism, government surveillance, propaganda, and the power of language. It portrays a society in which individual freedom and independent thought are suppressed, and citizens are brainwashed to believe that the Party is always right. \n\nThrough Winston's story, Orwell warns of the dangers of totalitarianism and the importance of maintaining individual freedoms and democratic values. The novel's portrayal of a dystopian future has had a profound impact on literature and popular culture, and the term 'Orwellian' has become synonymous with oppressive, authoritarian societies. \n\n'1984' remains one of the most influential and widely read novels of the 20th century, and its themes and ideas continue to be relevant in the modern world."
   }
